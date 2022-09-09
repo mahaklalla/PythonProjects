@@ -1,2 +1,2 @@
-# OlympicsData
-Different data visualizations using Python
+# Olympics Data
+Different data visualizations on olympics data using Python
